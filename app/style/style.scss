@@ -1,0 +1,16 @@
+$blue: #00BFE5;
+$dark-blue: #002A65;
+
+html, body {
+	background-color: $blue;
+	color: $dark-blue;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+
+// I need to relearn all of the sass stuff, as in how you can have css
+// in separate files and then compile and minify them and etc...
