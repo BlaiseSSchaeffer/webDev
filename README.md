@@ -1,1 +1,1 @@
-# Basic structure for an application utilizing AngularJs and Gulp for build automation
+# Web application development
